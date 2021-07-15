@@ -1,0 +1,13 @@
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\bin\Debug\netcoreapp3.1\Final exercice.exe
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\bin\Debug\netcoreapp3.1\Final exercice.deps.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\bin\Debug\netcoreapp3.1\Final exercice.runtimeconfig.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\bin\Debug\netcoreapp3.1\Final exercice.runtimeconfig.dev.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\bin\Debug\netcoreapp3.1\Final exercice.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\bin\Debug\netcoreapp3.1\Final exercice.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.csproj.AssemblyReference.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.AssemblyInfoInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.AssemblyInfo.cs
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.csproj.CoreCompileInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 10\Exercicio final 10\Final exercice\Final exercice\obj\Debug\netcoreapp3.1\Final exercice.genruntimeconfig.cache
